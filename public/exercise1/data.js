@@ -1,0 +1,42 @@
+[
+  {
+    id: "1",
+    name: "JavaScript",
+    year: 1995,
+    creator: "Brendan Eich",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    isProgrammingLanguage: true,
+  },
+  {
+    id: "2",
+    name: "Rust",
+    year: 2006,
+    creator: "Graydon Hoare",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/2048px-Rust_programming_language_black_logo.svg.png",
+    isProgrammingLanguage: true,
+  },
+  {
+    id: "3",
+    name: "Dart",
+    year: 2011,
+    creator: "Lars Bak",
+    logo: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png",
+    isProgrammingLanguage: true,
+  },
+  {
+    id: "4",
+    name: "Java",
+    year: 1995,
+    creator: "James Gosling",
+    logo: "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+    isProgrammingLanguage: true,
+  },
+  {
+    id: "5",
+    name: "HTML",
+    year: 1993,
+    creator: "Tim Berners-Lee",
+    logo: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU",
+    isProgrammingLanguage: false,
+  },
+];
