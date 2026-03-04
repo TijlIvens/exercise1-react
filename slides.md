@@ -35,6 +35,7 @@ css: unocss
 `npx shadcn@latest add card`
 `npx shadcn@latest add input`
 
+[Solution](/exercise3/CinemeSolution.zip)
 ---
 
 # Exercise 2: Dices
