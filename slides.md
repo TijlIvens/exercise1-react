@@ -29,24 +29,26 @@ css: unocss
 
 - Based on: [Cinema](https://exercise-3.js.tijlivens.be/2)
 - Start project:
-`npx create-next-app@latest`
-`npx shadcn@latest init`
-`npx shadcn@latest add button`
-`npx shadcn@latest add card`
-`npx shadcn@latest add input`
+- `npx create-next-app@latest`
+- `npx shadcn@latest init -t next`
+- `npx shadcn@latest add button`
+- `npx shadcn@latest add card`
+- `npx shadcn@latest add input`
 
-[Solution](/exercise3/CinemeSolution.zip)
+[Solution](/ciname/CinemeSolution.zip)
 ---
 
 # Exercise 2: Dices
 
 - Based on: [Dices](https://exercise-3.js.tijlivens.be/16)
 - Start project:
-`npx create-next-app@latest`
-`npx shadcn@latest init`
-`npx shadcn@latest add button`
-`npx shadcn@latest add card`
-`npx shadcn@latest add input`
+- `npx create-next-app@latest`
+- `npx shadcn@latest init -t next`
+- `npx shadcn@latest add button`
+- `npx shadcn@latest add card`
+- `npx shadcn@latest add input`
+
+[Solution](/dices/DicesSolution.zip)
 
 ---
 
@@ -54,11 +56,13 @@ css: unocss
 
 - Based on: [Plants](https://exercise-3.js.tijlivens.be/25)
 - Start project:
-`npx create-next-app@latest`
-`npx shadcn@latest init`
-`npx shadcn@latest add button`
-`npx shadcn@latest add card`
-`npx shadcn@latest add input`
+- `npx create-next-app@latest`
+- `npx shadcn@latest init -t next`
+- `npx shadcn@latest add button`
+- `npx shadcn@latest add card`
+- `npx shadcn@latest add input`
+
+[Solution](/plants/PlantsSolution.zip)
 
 ---
 
@@ -66,11 +70,11 @@ css: unocss
 
 - Based on: [Shoppy](https://exercise-3.js.tijlivens.be/37)
 - Start project:
-`npx create-next-app@latest`
-`npx shadcn@latest init`
-`npx shadcn@latest add button`
-`npx shadcn@latest add card`
-`npx shadcn@latest add input`
+- `npx create-next-app@latest`
+- `npx shadcn@latest init -t next`
+- `npx shadcn@latest add button`
+- `npx shadcn@latest add card`
+- `npx shadcn@latest add input`
 
 ---
 
