@@ -1,0 +1,324 @@
+{
+  "groceryProducts": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "pricePerUnit": 0.5,
+      "unit": "each",
+      "amount": 10,
+      "category": "Fruits & Vegetables",
+      "image": "apple.webp",
+      "description": "Crisp, sweet apples that are perfect for snacking, adding to salads, or baking into pies. \nRich in fiber and antioxidants, they make a nutritious and delicious choice."
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "pricePerUnit": 0.3,
+      "unit": "each",
+      "amount": 15,
+      "category": "Fruits & Vegetables",
+      "image": "banana.webp",
+      "description": "Ripe, naturally sweet bananas that are great as a quick snack or blended into smoothies. \nPacked with potassium and vitamins to support a healthy lifestyle."
+    },
+    {
+      "id": 3,
+      "name": "Carrot",
+      "pricePerUnit": 1.2,
+      "unit": "kg",
+      "amount": 20,
+      "category": "Fruits & Vegetables",
+      "image": "carrot.webp",
+      "description": "Fresh, crunchy carrots that are perfect for cooking, juicing, or eating raw. \nLoaded with beta-carotene and vitamin A for healthy vision and glowing skin."
+    },
+    {
+      "id": 4,
+      "name": "Broccoli",
+      "pricePerUnit": 2.0,
+      "unit": "kg",
+      "amount": 12,
+      "category": "Fruits & Vegetables",
+      "image": "broccoli.webp",
+      "description": "Tender, fresh broccoli florets that are ideal for steaming, stir-fries, or salads. \nA powerhouse of vitamins, fiber, and antioxidants to boost your health."
+    },
+    {
+      "id": 5,
+      "name": "Milk",
+      "pricePerUnit": 1.5,
+      "unit": "liter",
+      "amount": 25,
+      "category": "Dairy & Eggs",
+      "image": "milk.webp",
+      "description": "Fresh, creamy milk sourced from local farms. \nRich in calcium and essential nutrients, perfect for your breakfast cereal or coffee."
+    },
+    {
+      "id": 6,
+      "name": "Eggs",
+      "pricePerUnit": 2.0,
+      "unit": "piece",
+      "amount": 30,
+      "category": "Dairy & Eggs",
+      "image": "eggs.webp",
+      "description": "Farm-fresh eggs with golden yolks and high-quality protein. \nGreat for baking, cooking, or enjoying boiled as a healthy snack."
+    },
+    {
+      "id": 7,
+      "name": "Butter",
+      "pricePerUnit": 3.0,
+      "unit": "g",
+      "amount": 250,
+      "category": "Dairy & Eggs",
+      "image": "butter.webp",
+      "description": "Rich, creamy butter perfect for spreading, cooking, or baking. \nMade with high-quality cream for a smooth and delicious taste."
+    },
+    {
+      "id": 8,
+      "name": "Cheese",
+      "pricePerUnit": 4.0,
+      "unit": "g",
+      "amount": 500,
+      "category": "Dairy & Eggs",
+      "image": "cheese.webp",
+      "description": "A block of premium cheese with a rich, smooth flavor. \nIdeal for grating, slicing, or melting in your favorite dishes."
+    },
+    {
+      "id": 9,
+      "name": "Bread",
+      "pricePerUnit": 1.0,
+      "unit": "loaf",
+      "amount": 20,
+      "category": "Bakery",
+      "image": "bread.webp",
+      "description": "Freshly baked bread with a golden crust and soft interior. \nPerfect for sandwiches, toast, or enjoying with butter and jam."
+    },
+    {
+      "id": 10,
+      "name": "Croissant",
+      "pricePerUnit": 0.8,
+      "unit": "each",
+      "amount": 15,
+      "category": "Bakery",
+      "image": "croissant.webp",
+      "description": "Flaky, buttery croissants baked to perfection. \nGreat for breakfast or as a delightful snack with your coffee."
+    },
+    {
+      "id": 11,
+      "name": "Bagel",
+      "pricePerUnit": 0.7,
+      "unit": "each",
+      "amount": 18,
+      "category": "Bakery",
+      "image": "bagel.webp",
+      "description": "Soft, chewy bagels with a hint of sweetness. \nIdeal for toasting and pairing with cream cheese or your favorite toppings."
+    },
+    {
+      "id": 12,
+      "name": "Muffin",
+      "pricePerUnit": 1.2,
+      "unit": "each",
+      "amount": 12,
+      "category": "Bakery",
+      "image": "muffin.webp",
+      "description": "Moist, delicious muffins with a golden top. \nPerfect for breakfast or an indulgent afternoon snack."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Breast",
+      "pricePerUnit": 5.0,
+      "unit": "kg",
+      "amount": 10,
+      "category": "Meat & Seafood",
+      "image": "chicken_breast.webp",
+      "description": "Tender, boneless chicken breasts perfect for grilling, roasting, or stir-frying. \nPacked with lean protein and flavor."
+    },
+    {
+      "id": 14,
+      "name": "Salmon Fillet",
+      "pricePerUnit": 8.0,
+      "unit": "kg",
+      "amount": 8,
+      "category": "Meat & Seafood",
+      "image": "salmon_fillet.webp",
+      "description": "Fresh salmon fillets with a rich, buttery texture. \nPerfect for baking, grilling, or adding to salads and pasta."
+    },
+    {
+      "id": 15,
+      "name": "Ground Beef",
+      "pricePerUnit": 6.5,
+      "unit": "kg",
+      "amount": 15,
+      "category": "Meat & Seafood",
+      "image": "ground_beef.webp",
+      "description": "High-quality ground beef with just the right amount of fat. \nGreat for burgers, tacos, or hearty meat sauces."
+    },
+    {
+      "id": 16,
+      "name": "Shrimp",
+      "pricePerUnit": 10.0,
+      "unit": "kg",
+      "amount": 7,
+      "category": "Meat & Seafood",
+      "image": "shrimp.webp",
+      "description": "Plump, fresh shrimp that are easy to cook and full of flavor. \nIdeal for grilling, sautéing, or adding to pasta and salads."
+    },
+    {
+      "id": 17,
+      "name": "Water",
+      "pricePerUnit": 0.5,
+      "unit": "liter",
+      "amount": 50,
+      "category": "Beverages",
+      "image": "water.webp",
+      "description": "Pure, refreshing water packaged for convenience. \nStay hydrated and healthy throughout the day."
+    },
+    {
+      "id": 18,
+      "name": "Orange Juice",
+      "pricePerUnit": 3.0,
+      "unit": "liter",
+      "amount": 20,
+      "category": "Beverages",
+      "image": "orange_juice.webp",
+      "description": "Freshly squeezed orange juice bursting with natural flavor. \nA healthy and refreshing way to start your day."
+    },
+    {
+      "id": 19,
+      "name": "Coffee",
+      "pricePerUnit": 10.0,
+      "unit": "g",
+      "amount": 500,
+      "category": "Beverages",
+      "image": "coffee.webp",
+      "description": "Rich, aromatic coffee beans roasted to perfection. \nIdeal for brewing a delicious cup to energize your mornings."
+    },
+    {
+      "id": 20,
+      "name": "Tea",
+      "pricePerUnit": 5.0,
+      "unit": "g",
+      "amount": 250,
+      "category": "Beverages",
+      "image": "tea.webp",
+      "description": "Premium loose-leaf tea with a soothing aroma. \nPerfect for relaxing moments and enjoying the rich flavors."
+    },
+    {
+      "id": 21,
+      "name": "Chips",
+      "pricePerUnit": 2.0,
+      "unit": "bag",
+      "amount": 30,
+      "category": "Snacks",
+      "image": "chips.webp",
+      "description": "Crunchy potato chips with a savory flavor. \nPerfect for parties, movie nights, or a quick snack."
+    },
+    {
+      "id": 22,
+      "name": "Chocolate",
+      "pricePerUnit": 1.5,
+      "unit": "bar",
+      "amount": 25,
+      "category": "Snacks",
+      "image": "chocolate.webp",
+      "description": "Smooth, rich chocolate bars crafted for indulgence. \nA delightful treat for satisfying your sweet tooth."
+    },
+    {
+      "id": 23,
+      "name": "Cookies",
+      "pricePerUnit": 3.0,
+      "unit": "box",
+      "amount": 20,
+      "category": "Snacks",
+      "image": "cookies.webp",
+      "description": "Delicious, crumbly cookies packed with flavor. \nPerfect for tea time or as a sweet treat anytime."
+    },
+    {
+      "id": 24,
+      "name": "Nuts",
+      "pricePerUnit": 7.0,
+      "unit": "kg",
+      "amount": 15,
+      "category": "Snacks",
+      "image": "nuts.webp",
+      "description": "A mix of premium nuts packed with nutrients. \nA healthy and tasty snack option for any time of the day."
+    },
+    {
+      "id": 25,
+      "name": "Rice",
+      "pricePerUnit": 1.2,
+      "unit": "kg",
+      "amount": 50,
+      "category": "Pantry",
+      "image": "rice.webp",
+      "description": "Long-grain white rice with a fluffy texture. \nPerfect for a variety of dishes, from stir-fries to curries."
+    },
+    {
+      "id": 26,
+      "name": "Pasta",
+      "pricePerUnit": 1.0,
+      "unit": "g",
+      "amount": 500,
+      "category": "Pantry",
+      "image": "pasta.webp",
+      "description": "Golden, dried pasta that cooks to perfection. \nIdeal for preparing hearty, comforting meals."
+    },
+    {
+      "id": 27,
+      "name": "Cooking Oil",
+      "pricePerUnit": 3.5,
+      "unit": "liter",
+      "amount": 10,
+      "category": "Pantry",
+      "image": "cooking_oil.webp",
+      "description": "High-quality cooking oil with a neutral flavor. \nGreat for frying, sautéing, and baking."
+    },
+    {
+      "id": 28,
+      "name": "Sugar",
+      "pricePerUnit": 1.5,
+      "unit": "kg",
+      "amount": 40,
+      "category": "Pantry",
+      "image": "sugar.webp",
+      "description": "Pure white sugar perfect for baking, sweetening beverages, and cooking. \nA pantry essential for all your culinary needs."
+    },
+    {
+      "id": 29,
+      "name": "Paper Towels",
+      "pricePerUnit": 3.0,
+      "unit": "roll",
+      "amount": 30,
+      "category": "Household Supplies",
+      "image": "paper_towels.webp",
+      "description": "Soft, absorbent paper towels ideal for quick cleanups. \nDurable and reliable for everyday use."
+    },
+    {
+      "id": 30,
+      "name": "Dish Soap",
+      "pricePerUnit": 2.5,
+      "unit": "bottle",
+      "amount": 15,
+      "category": "Household Supplies",
+      "image": "dish_soap.webp",
+      "description": "Powerful dish soap that cuts through grease and grime. \nLeaves your dishes sparkling clean with a fresh scent."
+    },
+    {
+      "id": 31,
+      "name": "Laundry Detergent",
+      "pricePerUnit": 10.0,
+      "unit": "g",
+      "amount": 2000,
+      "category": "Household Supplies",
+      "image": "laundry_detergent.webp",
+      "description": "Effective laundry detergent that removes stains and odors. \nKeeps your clothes fresh and bright after every wash."
+    },
+    {
+      "id": 32,
+      "name": "Toilet Paper",
+      "pricePerUnit": 5.0,
+      "unit": "pack",
+      "amount": 10,
+      "category": "Household Supplies",
+      "image": "toilet_paper.webp",
+      "description": "Soft, strong, and absorbent toilet paper. \nProvides comfort and quality for everyday use."
+    }
+  ]
+}

@@ -76,6 +76,8 @@ css: unocss
 - `npx shadcn@latest add card`
 - `npx shadcn@latest add input`
 
+[Solution](/shoppy/ShoppySolution.zip)
+
 ---
 
 
